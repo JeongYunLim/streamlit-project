@@ -28,7 +28,7 @@ h1 {text-align: center; color: #4A90E2;}
 st.title("💻 개발자 성향 테스트")
 
 
-st.markdown("### 👤 사용자 정보")
+
 col1, col2 = st.columns(2)
 with col1:
     st.info("학번: 2025404052")  
